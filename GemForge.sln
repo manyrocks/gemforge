@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{210B060E-1592-4C9A-8756-C9C74ECD1DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemForge.Domain", "src\GemForge.Domain\GemForge.Domain.csproj", "{DABAFA26-E1CC-462C-8B19-62159BE72C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemForge.Application", "src\GemForge.Application\GemForge.Application.csproj", "{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemForge.Infrastructure", "src\GemForge.Infrastructure\GemForge.Infrastructure.csproj", "{39A3A824-7D7A-42E5-ADBE-A0D040B97487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemForge.Desktop", "src\GemForge.Desktop\GemForge.Desktop.csproj", "{F053E6AC-F67E-40D4-895F-83839076FEF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F7DD4E40-EF4D-4246-8D74-54C3966EB1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemForge.Domain.Tests", "tests\GemForge.Domain.Tests\GemForge.Domain.Tests.csproj", "{0D6D3552-1E7F-41AD-99C6-16171E667BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABAFA26-E1CC-462C-8B19-62159BE72C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABAFA26-E1CC-462C-8B19-62159BE72C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABAFA26-E1CC-462C-8B19-62159BE72C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABAFA26-E1CC-462C-8B19-62159BE72C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A3A824-7D7A-42E5-ADBE-A0D040B97487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A3A824-7D7A-42E5-ADBE-A0D040B97487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A3A824-7D7A-42E5-ADBE-A0D040B97487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A3A824-7D7A-42E5-ADBE-A0D040B97487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F053E6AC-F67E-40D4-895F-83839076FEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F053E6AC-F67E-40D4-895F-83839076FEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F053E6AC-F67E-40D4-895F-83839076FEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F053E6AC-F67E-40D4-895F-83839076FEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6D3552-1E7F-41AD-99C6-16171E667BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6D3552-1E7F-41AD-99C6-16171E667BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6D3552-1E7F-41AD-99C6-16171E667BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6D3552-1E7F-41AD-99C6-16171E667BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DABAFA26-E1CC-462C-8B19-62159BE72C5A} = {210B060E-1592-4C9A-8756-C9C74ECD1DAD}
+		{77BF66D6-B169-4C4A-ABFA-8A7B92F30CC3} = {210B060E-1592-4C9A-8756-C9C74ECD1DAD}
+		{39A3A824-7D7A-42E5-ADBE-A0D040B97487} = {210B060E-1592-4C9A-8756-C9C74ECD1DAD}
+		{F053E6AC-F67E-40D4-895F-83839076FEF1} = {210B060E-1592-4C9A-8756-C9C74ECD1DAD}
+		{0D6D3552-1E7F-41AD-99C6-16171E667BC2} = {F7DD4E40-EF4D-4246-8D74-54C3966EB1FF}
+	EndGlobalSection
+EndGlobal

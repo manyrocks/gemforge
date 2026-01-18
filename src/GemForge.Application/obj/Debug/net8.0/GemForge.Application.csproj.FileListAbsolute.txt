@@ -1,0 +1,16 @@
+D:\repos\gemforge\src\GemForge.Application\bin\Debug\net8.0\GemForge.Application.deps.json
+D:\repos\gemforge\src\GemForge.Application\bin\Debug\net8.0\GemForge.Application.dll
+D:\repos\gemforge\src\GemForge.Application\bin\Debug\net8.0\GemForge.Application.pdb
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.AssemblyInfoInputs.cache
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.AssemblyInfo.cs
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.csproj.CoreCompileInputs.cache
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.sourcelink.json
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.dll
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\refint\GemForge.Application.dll
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.pdb
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\ref\GemForge.Application.dll
+D:\repos\gemforge\src\GemForge.Application\bin\Debug\net8.0\GemForge.Domain.dll
+D:\repos\gemforge\src\GemForge.Application\bin\Debug\net8.0\GemForge.Domain.pdb
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.Application.csproj.AssemblyReference.cache
+D:\repos\gemforge\src\GemForge.Application\obj\Debug\net8.0\GemForge.129098D1.Up2Date

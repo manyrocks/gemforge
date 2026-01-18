@@ -1,0 +1,16 @@
+D:\repos\gemforge\src\GemForge.Infrastructure\bin\Debug\net8.0\GemForge.Infrastructure.deps.json
+D:\repos\gemforge\src\GemForge.Infrastructure\bin\Debug\net8.0\GemForge.Infrastructure.dll
+D:\repos\gemforge\src\GemForge.Infrastructure\bin\Debug\net8.0\GemForge.Infrastructure.pdb
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.AssemblyInfoInputs.cache
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.AssemblyInfo.cs
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.csproj.CoreCompileInputs.cache
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.sourcelink.json
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.dll
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\refint\GemForge.Infrastructure.dll
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.pdb
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\ref\GemForge.Infrastructure.dll
+D:\repos\gemforge\src\GemForge.Infrastructure\bin\Debug\net8.0\GemForge.Domain.dll
+D:\repos\gemforge\src\GemForge.Infrastructure\bin\Debug\net8.0\GemForge.Domain.pdb
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.Infrastructure.csproj.AssemblyReference.cache
+D:\repos\gemforge\src\GemForge.Infrastructure\obj\Debug\net8.0\GemForge.D219298E.Up2Date

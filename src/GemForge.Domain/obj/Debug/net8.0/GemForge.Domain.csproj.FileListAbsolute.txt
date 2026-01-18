@@ -1,0 +1,12 @@
+D:\repos\gemforge\src\GemForge.Domain\bin\Debug\net8.0\GemForge.Domain.deps.json
+D:\repos\gemforge\src\GemForge.Domain\bin\Debug\net8.0\GemForge.Domain.dll
+D:\repos\gemforge\src\GemForge.Domain\bin\Debug\net8.0\GemForge.Domain.pdb
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.AssemblyInfoInputs.cache
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.AssemblyInfo.cs
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.csproj.CoreCompileInputs.cache
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.sourcelink.json
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.dll
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\refint\GemForge.Domain.dll
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\GemForge.Domain.pdb
+D:\repos\gemforge\src\GemForge.Domain\obj\Debug\net8.0\ref\GemForge.Domain.dll
